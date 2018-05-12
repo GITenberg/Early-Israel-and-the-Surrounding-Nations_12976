@@ -1,5 +1,8 @@
 _repo: Early-Israel-and-the-Surrounding-Nations_12976
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sayce, A. H. (Archibald Henry)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4759
     wikipedia: http://en.wikipedia.org/wiki/Archibald_Sayce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12976#Early-Israel-and-the-Surrounding-Nations
 gutenberg_issued: '2004-07-21'
 gutenberg_type: Text
 identifiers:
